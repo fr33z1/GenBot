@@ -1,5 +1,5 @@
 module.exports = {
-    PREFIX: "?", //prefix for the bot here
+    PREFIX: "!", //prefix for the bot here
     owner: {
       id: "871756210225954858",  //put your owner Id in here so you can bypass cooldown for the generator commands and use the nitrogen command
       username: "Rdimo#6969"
