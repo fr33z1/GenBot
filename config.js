@@ -1,14 +1,14 @@
 module.exports = {
-    PREFIX: "!", //prefix for the bot here
+    PREFIX: "?", //prefix for the bot here
     owner: {
       id: "871756210225954858",  //put your owner Id in here so you can bypass cooldown for the generator commands and use the nitrogen command
       username: "Rdimo#6969"
     },
 
     channels: {
-      generator: '', //ID of the generator channel
-      nitro: '', //ID of the nitro generator channel
-      twitch: '' //ID of the Twitch follows channel
+      generator: '942204672771493920', //ID of the generator channel
+      nitro: '942204640601202688', //ID of the nitro generator channel
+      twitch: '942204730803904532' //ID of the Twitch follows channel
     },
 
     links: {
