@@ -40,7 +40,7 @@ module.exports = {
     },
 
     Token: {
-      Discord: 'OTQyMTkzNzU3Nzk1ODExMzg4.Ygg8UA.O6nU4tjbAztTWLGRSPmMrqfo6ec',
+      Discord: 'OTQyNDMzMjc3OTgwMDgyMjQ2.YgkbYw.oZr6Hfpkd6GzrIKXO9S79xtud90',
     },
 
     blacklistedUsers: {
